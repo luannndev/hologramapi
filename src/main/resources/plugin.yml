@@ -1,0 +1,7 @@
+name: HologramAPI
+version: '${version}'
+main: dev.luan.hologramapi.HologramAPI
+author: luannndev
+
+depend:
+  - packetevents
